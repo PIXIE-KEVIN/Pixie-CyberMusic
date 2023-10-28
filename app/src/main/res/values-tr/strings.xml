@@ -61,7 +61,7 @@
     <string name="featured">Öne Çıkanlar</string>
     <string name="view_the_source_code">Kaynak kodunu görüntüle</string>
     <string name="report_an_issue">Report an issue</string>
-    <string name="you_will_be_redirected_to_github">Şuraya yönlendirileceksiniz: GitHub</string>
+    <string name="you_will_be_redirected_to_discord">Şuraya yönlendirileceksiniz: GitHub</string>
     <string name="request_a_feature_or_suggest_an_idea">Bir özellik isteyin veya bir fikir önerin</string>
     <string name="appearance">Dış görünüş</string>
     <string name="colors">RENKLER</string>
