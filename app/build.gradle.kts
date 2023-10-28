@@ -12,7 +12,7 @@ android {
         minSdk = 21
         targetSdk = 33
         versionCode = 6
-        versionName = "0.6.6"
+        versionName = "0.7.5"
     }
 
     splits {
@@ -27,13 +27,13 @@ android {
     buildTypes {
         debug {
             applicationIdSuffix = ".debug"
-            manifestPlaceholders["appName"] = "pixiecybermusicberMusic-Debug"
+            manifestPlaceholders["appName"] = "PixieCyberMusic-Debug"
         }
 
         release {
             isMinifyEnabled = true
             isShrinkResources = true
-            manifestPlaceholders["appName"] = "pixiecybermusicberMusic"
+            manifestPlaceholders["appName"] = "PixieCyberMusic"
             signingConfig = signingConfigs.getByName("debug")
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
