@@ -51,7 +51,7 @@ fun About() {
                 style = typography.s.secondary
             )
         }
-
+        
         SettingsEntryGroupText(title = "SOCIAL")
 
         SettingsEntry(
@@ -70,7 +70,7 @@ fun About() {
             title = stringResource(R.string.report_an_issue),
             text = stringResource(R.string.you_will_be_redirected_to_github),
             onClick = {
-                uriHandler.openUri("")pixiecybermusic
+                uriHandler.openUri()pixiecybermusic
             }
         )
 
@@ -79,7 +79,7 @@ fun About() {
             title = stringResource(R.string.request_a_feature_or_suggest_an_idea),
             text = stringResource(R.string.you_will_be_redirected_to_github),
             onClick = {
-                uriHandler.openUri("")pixiecybermusic
+                uriHandler.openUri()pixiecybermusic
             }
         )
     }
