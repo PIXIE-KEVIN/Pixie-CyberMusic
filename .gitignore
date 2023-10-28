@@ -8,5 +8,5 @@
 .externalNativeBuild
 .cxx
 local.properties
-/APK keystore/RiMusicKeystore.jks
+/APK keystore/pixiecybermusicKeystore.jks
 /APK keystore/pwd key.txt

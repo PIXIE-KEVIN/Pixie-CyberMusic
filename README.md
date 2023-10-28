@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./app_logo.png" width="300" height="100" style="display: block; margin: 0 auto"/>    
-    <p><b>RiMusic</b> is <b>Multilingual</b> Android application for streaming music from YouTube Music</p>
+    <p><b>pixiecybermusicberMusic</b> is <b>Multilingual</b> Android application for streaming music from YouTube Music</p>
 </div>
 
 ---
@@ -50,18 +50,18 @@
 
 ## Languages Available
 * English, initial forked from ViMusic
-* Italian, native language, thank to me [@fast4x](https://github.com/fast4x)
-* German, native language, thank to [@siggi1984](https://github.com/siggi1984)
-* Russian, native language, thank to [@siggi1984](https://github.com/siggi1984)
-* French, native language, thank to [@NEVARLeVrai](https://github.com/NEVARLeVrai)
-* Czech, native language, thank to [@ikanakova](https://github.com/ikanakova)
-* Spanish, native language, thank to [@DanielSevillano](https://github.com/DanielSevillano)
+* Italian, native language, thank to me @fast4x
+* German, native language, thank to @siggi1984
+* Russian, native language, thank to @siggi1984
+* French, native language, thank to @NEVARLeVrai
+* Czech, native language, thank to @ikanakova
+* Spanish, native language, thank to @PIXIE-KEVIN
 * Turkish, non native language, contribute to improve
 * contribute for any other language
 
 
 ## Installation
-You can dowload it from [**releases page**](https://github.com/fast4x/RiMusic/releases)
+You can dowload it from [**releases page**]()pixiecybermusic
 
 <!--
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
@@ -85,7 +85,6 @@ You can dowload it from [**releases page**](https://github.com/fast4x/RiMusic/re
 - [**YouTube-Internal-Clients**](https://github.com/zerodytrash/YouTube-Internal-Clients): A python script that discovers hidden YouTube API clients. Just a research project.
 - [**ionicons**](https://github.com/ionic-team/ionicons): Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere.
 - [**Flaticon**](https://www.flaticon.com/authors/ilham-fitrotul-hayat) App icon based on icon created by Ilham Fitrotul Hayat
-- **New logo design** thank to [@ikanakova](https://github.com/ikanakova)
 
 ## Disclaimer
 This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries.
