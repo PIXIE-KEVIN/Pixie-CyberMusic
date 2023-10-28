@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./app_logo.png" width="300" height="100" style="display: block; margin: 0 auto"/>    
-    <p><b>pixiecybermusicberMusic</b> is <b>Multilingual</b> Android application for streaming music from YouTube Music</p>
+    <p><b>PixieCyberMusic</b> is <b>Multilingual</b> Android application for streaming music from YouTube Music</p>
 </div>
 
 ---
