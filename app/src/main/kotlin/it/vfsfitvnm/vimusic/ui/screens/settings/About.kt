@@ -47,18 +47,18 @@ fun About() {
     ) {
         Header(title = stringResource(R.string.about)) {
             BasicText(
-                text =  "pixiecybermusicberMusic v${BuildConfig.VERSION_NAME} by Pixie-Kevin",
+                text =  "PixieCyberMusic v${BuildConfig.VERSION_NAME} by Pixie Kevin",
                 style = typography.s.secondary
             )
         }
-        
+
         SettingsEntryGroupText(title = "SOCIAL")
 
         SettingsEntry(
             title = "Canal de Whatsapp",
-            text = stringResource(R.string.view_the_source_code),
+            text = stringResource(R.string.the_channels_are_private_no_one_can_see_your_number),
             onClick = {
-                uriHandler.openUri("https://whatsapp.com/channpixiecybermusicVaCmlbiA89MfbIRXw52hc")
+                uriHandler.openUri("https://whatsapp.com/channel/0029VaCmlbiA89MfbIRXw52h")
             }
         )
 
@@ -68,18 +68,18 @@ fun About() {
 
         SettingsEntry(
             title = stringResource(R.string.report_an_issue),
-            text = stringResource(R.string.you_will_be_redirected_to_github),
+            text = stringResource(R.string.you_will_be_redirected_to_discord),
             onClick = {
-                uriHandler.openUri()pixiecybermusic
+                uriHandler.openUri("")
             }
         )
 
 
         SettingsEntry(
             title = stringResource(R.string.request_a_feature_or_suggest_an_idea),
-            text = stringResource(R.string.you_will_be_redirected_to_github),
+            text = stringResource(R.string.you_will_be_redirected_to_discord),
             onClick = {
-                uriHandler.openUri()pixiecybermusic
+                uriHandler.openUri("")
             }
         )
     }
