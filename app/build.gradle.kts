@@ -8,7 +8,7 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "PixieCyberpixiecybermusic
+        applicationId = "PixieCyberMusic"
         minSdk = 21
         targetSdk = 33
         versionCode = 6
